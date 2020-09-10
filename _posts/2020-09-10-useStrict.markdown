@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "use strict"
+title:  "'use strict'"
 date:   2020-09-10 12:39:45 +0300
 categories: JS notes
 ---
