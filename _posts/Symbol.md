@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Symbol"
+date:   2020-09-10 22:27:22 +0300
+categories: JS notes
+---
+Symbol is a special data in javascript that can have only unique value. If Symbol will be used in object as key, then this key will be hidden.
