@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Call and Apply'"
+title:  "call and apply"
 date:   2020-09-13 23:07:00 +0300
 categories: JS notes
 ---
