@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'use strict'"
+title:  "setter and getter"
 date:   2020-09-30 19:09:45 +0300
 categories: JS notes
 ---
